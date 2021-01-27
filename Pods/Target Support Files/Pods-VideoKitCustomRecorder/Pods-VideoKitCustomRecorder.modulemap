@@ -1,6 +1,0 @@
-framework module Pods_VideoKitCustomRecorder {
-  umbrella header "Pods-VideoKitCustomRecorder-umbrella.h"
-
-  export *
-  module * { export * }
-}
