@@ -16,13 +16,9 @@ Clone this repository.
 git clone git@github.com:Video-io/VideoKitCustomRecorder.git
 ```
 
-Install dependencies using CocoaPods
+Install/Update dependencies using Swift Package Manager (File -> Swift Packages -> Update)
+
+Open VideoKitCustomRecorder.xcodeproj
 
 ```bash
-pod install
-```
-
-Open VideoKitCustomRecorder.xcworkspace
-
-```bash
-open VideoKitCustomRecorder.xcworkspace
+open VideoKitCustomRecorder.xcodeproj
